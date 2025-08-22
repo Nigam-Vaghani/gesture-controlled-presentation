@@ -60,8 +60,11 @@ Voice commands integration
 Slide click + laser pointer gesture
 Export drawings as annotation layer
 
+## you can check demo video: sample.mp4
+
 
 🧑‍💻 Author
 Nigam Vaghani
 
 ```
+
